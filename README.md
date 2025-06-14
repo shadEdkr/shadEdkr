@@ -1,23 +1,38 @@
-# 🛡️ Yoonsung Ed Cho
+# 🛡️ Yoonsung Ed Cho  
 **Cybersecurity Student @ Purdue University**
 
-> *"With great power comes great electricity bills."*
+> _"With great power comes great electricity bills."_
 
-🔐 **Focus:** Network Security | SOC Analysis | Penetration Testing
+---
 
-🎯 **Seeking:** Winter 2025 + Summer 2026 Cybersecurity Internships
+### 🔐 Areas of Interest  
+**Network Security** • **SOC Analysis** • **Penetration Testing**
 
-💼 **Current:** ResNet Tier 2 Rep & Datacenter Infrastructure Technician @ Purdue
+### 🎯 Internship Goals  
+Actively seeking **Cybersecurity Internships** for:  
+- **Winter 2025**  
+- **Summer 2026**
 
-## 📋 Full Details
-Everything about me (experience, projects, skills, timeline) is documented at:
+---
 
-🌐 **[shadEdkr.github.io](https://github.com/shadEdkr/shadEdkr.github.io)**
+### 💼 Current Roles  
+- 🖥️ **ResNet Tier 2 Representative**, Purdue University  
+- 🏢 **Datacenter Infrastructure Technician**, Purdue University  
 
-## 🤝 Connect
+---
 
-📧 **Email:** cho526@purdue.edu
+### 📚 Full Profile  
+All experience, projects, and timeline available at:  
+🌐 [**shadEdkr.github.io**](https://shadEdkr.github.io)
 
-💼 **LinkedIn:** [linkedin.com/in/edchokr](https://linkedin.com/in/edchokr/)
+---
 
-📝 **Medium:** [medium.com/@edchokr](https://medium.com/@edchokr)
+### 🤝 Let’s Connect  
+📧 Email: [cho526@purdue.edu](mailto:cho526@purdue.edu)  
+🔗 LinkedIn: [linkedin.com/in/edchokr](https://linkedin.com/in/edchokr/)  
+📝 Medium: [medium.com/@edchokr](https://medium.com/@edchokr)
+
+---
+
+### 🔎 Keywords  
+`Cybersecurity` `SOC` `SIEM` `OSINT` `Network Analysis` `Nmap` `BurpSuite` `Python` `Kali Linux` `Cloud Security`
